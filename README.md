@@ -3,10 +3,10 @@
 
 ![2600C](https://github.com/Proign/Access-lists/blob/main/screenshots/2600C-ping.PNG)
 
-## Проверка работы стандартных списков доступа
+# Проверка работы стандартных списков доступа
 ![2600A](https://github.com/Proign/Access-lists/blob/main/screenshots/2600A-access-list.PNG)
 
-## Применение списков доступа к линиям VTY
+# Применение списков доступа к линиям VTY
 ![HostF](https://github.com/Proign/Access-lists/blob/main/screenshots/HostF-telnet.PNG)
 
 ![HostF](https://github.com/Proign/Access-lists/blob/main/screenshots/HostF-no-telnet.PNG)
